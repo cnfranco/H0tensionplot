@@ -16,9 +16,11 @@ Matplotlib
 
 The notebook includes two main graphs:
 
-   ### Graph 1 - H_0 Measurements: This graph shows the different H_0 measurements and their uncertainties, including measurements based on cosmic microwave background radiation (CMB), type Ia supernovae (SN), gravitational lensing (GL), among others.
+   ### Graph 1 - 
+   H_0 Measurements: This graph shows the different H_0 measurements and their uncertainties, including measurements based on cosmic microwave background radiation (CMB), type Ia supernovae (SN), gravitational lensing (GL), among others.
 
-  ###  Graph 2 - H_0 Tension: This graph visualizes the tension between the different H_0 measurements, highlighting the discrepancy between them and its implication in understanding fundamental physics.
+  ###  Graph 2 - 
+  H_0 Tension: This graph visualizes the tension between the different H_0 measurements, highlighting the discrepancy between them and its implication in understanding fundamental physics.
 
 ## How to Use
 
