@@ -4,9 +4,9 @@ This repository contains a Jupyter Notebook demonstrating the tension in determi
 ## Description
 
 The Hubble constant, H_0, is a fundamental measure of the rate of expansion of the universe. However, different measurement methods have produced discrepant values, leading to a "tension" between these measures. This notebook explores this tension by visualizing the results of the main H_0 measurements and comparing them.
-Content
 
-    Jupyter Notebook: The H0_Tension.ipynb file contains the Python code to load the H_0 measurements data, create graphs, and perform comparative analyses.
+## Content
+Jupyter Notebook: The H0_Tension.ipynb file contains the Python code to load the H_0 measurements data, create graphs, and perform comparative analyses.
 
 ## Requirements
 Pandas
