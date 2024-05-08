@@ -24,8 +24,7 @@ The notebook includes two main graphs:
 
 ## How to Use
 
-To view and interact with the notebook, follow these steps:
-
+To view and interact with the notebook, follow these steps: 
     Clone this repository to your local environment.
     Ensure you have Jupyter Notebook installed.
     Open the terminal, navigate to the cloned repository directory, and run the command jupyter notebook.
@@ -35,12 +34,3 @@ To view and interact with the notebook, follow these steps:
 ## Contribution
 
 Feel free to contribute improvements, corrections, or additions to this notebook. Simply open a pull request, and we'll be happy to review your contributions.
-## References
-
-    Article X: Article Title
-    Article Y: Article Title
-    Article Z: Article Title
-
-## Authors
-
-    Your Name - Institution
